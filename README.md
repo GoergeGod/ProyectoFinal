@@ -1,4 +1,4 @@
-# proyecto_final_Emmanuel Rios And Sebastian George
+# Proyecto_Final_Emmanuel Rios And Sebastian George
 
 Aplicación con comics de Marvel
 
